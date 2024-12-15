@@ -22,5 +22,5 @@ conda activate emnist
 ```
 conda install matplotlib jupyter
 ```
-### Use the following link to locally install PyTorch
+### Use the following link to install PyTorch locally
 https://pytorch.org/get-started/locally/
