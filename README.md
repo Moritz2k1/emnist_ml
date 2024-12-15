@@ -4,7 +4,7 @@
 ## Input: train/val Output: Accuracy with several random Images with the predicted Labels
 ## Team Members: Moritz Gutschi, Fabian Barrasch, Jonida Zekaj, Ana-Maria Nisandzic
 
-## Getting Started:
+## Getting Started
 ### Cloning Repo
 ```
 git clone https://github.com/Moritz2k1/group_mfja_emnist.git
