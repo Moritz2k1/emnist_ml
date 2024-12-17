@@ -1,7 +1,8 @@
 # Develop a CNN for Image Classification using Transfer Learning
 ## Dataset: EMNIST
 ## CNN: ResNet50
-## Input: train/val Output: Accuracy with several random Images with the predicted Labels
+## Input: Images of letters (English Alphabet) obtained from EMNIST dataset.
+## Output: Classification into groups with the corresponding labeling
 ## Team Members: Moritz Gutschi, Fabian Barrasch, Jonida Zekaj, Ana-Maria Nisandzic
 
 ## Getting Started
