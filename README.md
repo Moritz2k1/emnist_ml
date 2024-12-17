@@ -14,7 +14,7 @@ git clone https://github.com/Moritz2k1/group_mfja_emnist.git
 ```
 git checkout testing
 ```
-### Make virtual enviroment with Anaconda
+### Make virtual environment with Anaconda
 ```
 conda create -n emnist python=3.12
 conda activate emnist
