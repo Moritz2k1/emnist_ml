@@ -1,7 +1,8 @@
 # Develop a CNN for Image Classification using Transfer Learning
 ## Dataset: EMNIST
 ## CNN: ResNet50
-## Input: train/val Output: Accuracy with several random Images with the predicted Labels
+## Input: Images of letters (English Alphabet) obtained from EMNIST dataset.
+## Output: Classification into groups with the corresponding labeling
 ## Team Members: Moritz Gutschi, Fabian Barrasch, Jonida Zekaj, Ana-Maria Nisandzic
 
 ## Getting Started
@@ -13,7 +14,7 @@ git clone https://github.com/Moritz2k1/group_mfja_emnist.git
 ```
 git checkout testing
 ```
-### Make virtual enviroment with Anaconda
+### Make virtual environment with Anaconda
 ```
 conda create -n emnist python=3.12
 conda activate emnist
