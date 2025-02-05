@@ -7,7 +7,7 @@ Team Members: Moritz Gutschi, Fabian Barrasch, Ana-Maria Nisandzic
 
 ### Cloning Repo
 ```
-git clone https://github.com/Moritz2k1/group_mfja_emnist.git
+git clone https://github.com/Moritz2k1/emnist_ml.git
 ```
 
 ## Getting Started locally
