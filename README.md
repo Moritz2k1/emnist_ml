@@ -3,7 +3,7 @@ Dataset: EMNIST\
 CNN: ResNet50\
 Input: Images of letters and numbers (English Alphabet) obtained from EMNIST dataset\
 Output: Classification into groups with the corresponding labeling\
-Team Members: Moritz Gutschi, Fabian Barrasch, Ana-Maria Nisandzic\
+Team Members: Moritz Gutschi, Fabian Barrasch, Ana-Maria Nisandzic
 
 ### Cloning Repo
 ```
