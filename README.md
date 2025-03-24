@@ -1,6 +1,6 @@
 # Develop a CNN for Image Classification using Transfer Learning
 Dataset: EMNIST\
-CNN: ResNet50\
+CNN: ResNet18\
 Input: Images of letters and numbers (English Alphabet) obtained from EMNIST dataset\
 Output: Classification into groups with the corresponding labeling\
 Team Members: Moritz Gutschi, Fabian Barrasch, Ana-Maria Nisandzic
